@@ -8,6 +8,7 @@ Create `conda` environment:
 
 ```bash
 $ conda env create --file environment.yml
+$ conda activate fl-ai4eo-image-segmentation
 ```
 
 Start jupyter:
