@@ -7,19 +7,19 @@ import skimage
 
 
 S2_BANDS = {
-    "B1": { "resolution": 60, "description": "Coastal aerosol"},
-    "B2": { "resolution": 10, "description": "Blue"},
-    "B3": { "resolution": 10, "description": "Green"},
-    "B4": { "resolution": 10, "description": "Red"},
-    "B5": { "resolution": 20, "description": "Red Edge 1"},
-    "B6": { "resolution": 20, "description": "Red Edge 2"},
-    "B7": { "resolution": 20, "description": "Red Edge 3"},
-    "B8": { "resolution": 10, "description": "Near-Infrared"},
-    "B8A": { "resolution": 20, "description": "Near-Infrared narrow"},
-    "B9": { "resolution": 60, "description": "Water vapor"},
-    "B10": { "resolution": 60, "description": "Shortwave-Infrared cirrus"},
-    "B11": { "resolution": 20, "description": "Shortwave Infrared 1"},
-    "B12": { "resolution": 20, "description": "Shortwave-Infrared 2"},
+    "B1": {"resolution": 60, "description": "Coastal aerosol"},
+    "B2": {"resolution": 10, "description": "Blue"},
+    "B3": {"resolution": 10, "description": "Green"},
+    "B4": {"resolution": 10, "description": "Red"},
+    "B5": {"resolution": 20, "description": "Red Edge 1"},
+    "B6": {"resolution": 20, "description": "Red Edge 2"},
+    "B7": {"resolution": 20, "description": "Red Edge 3"},
+    "B8": {"resolution": 10, "description": "Near-Infrared"},
+    "B8A": {"resolution": 20, "description": "Near-Infrared narrow"},
+    "B9": {"resolution": 60, "description": "Water vapor"},
+    "B10": {"resolution": 60, "description": "Shortwave-Infrared cirrus"},
+    "B11": {"resolution": 20, "description": "Shortwave Infrared 1"},
+    "B12": {"resolution": 20, "description": "Shortwave-Infrared 2"},
 }
 
 
@@ -55,11 +55,7 @@ def image_to_grayscale(image: np.ndarray) -> np.ndarray:
     return gray
 
 
-def mask_pixels_rgb(
-    image: np.ndarray,
-    px_mask: pd.DataFrame,
-    colour: str,
-) -> None:
+def mask_pixels_rgb(image: np.ndarray, px_mask: pd.DataFrame, colour: str,) -> None:
     assert image.shape[-1] == 3, "Image must have 3 bands"
 
     band_vals = {
@@ -73,9 +69,7 @@ def mask_pixels_rgb(
         image[px_mask.x, px_mask.y, i] = band_vals[i]
 
 
-def add_points_to_image(
-    image: np.ndarray, points: pd.DataFrame, colour: str
-) -> None:
+def add_points_to_image(image: np.ndarray, points: pd.DataFrame, colour: str) -> None:
     mask_pixels_rgb(image, points, colour)
     mask_pixels_rgb(image, points.assign(x=points.x + 1), colour)
     mask_pixels_rgb(image, points.assign(x=points.x - 1), colour)
