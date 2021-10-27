@@ -1,0 +1,401 @@
+x,y,class_name
+59,143,water
+59,142,water
+32,35,water
+32,36,water
+29,34,water
+28,34,water
+29,33,water
+53,152,water
+53,153,water
+53,154,water
+54,152,water
+54,153,water
+54,154,water
+84,90,water
+83,90,water
+85,90,water
+83,91,water
+84,91,water
+85,91,water
+86,90,water
+87,90,water
+86,91,water
+87,91,water
+96,70,water
+97,70,water
+98,70,water
+96,69,water
+97,69,water
+98,69,water
+99,69,water
+100,69,water
+99,70,water
+100,70,water
+83,58,water
+83,59,water
+83,60,water
+84,59,water
+84,60,water
+20,184,water
+20,183,water
+20,182,water
+20,181,water
+20,180,water
+20,179,water
+21,179,water
+21,180,water
+21,181,water
+21,182,water
+21,183,water
+21,184,water
+38,168,water
+39,168,water
+40,168,water
+41,168,water
+42,168,water
+43,168,water
+38,169,water
+39,169,water
+40,169,water
+41,169,water
+42,169,water
+43,169,water
+38,170,water
+39,170,water
+40,170,water
+41,170,water
+42,170,water
+43,170,water
+48,42,water
+49,42,water
+50,42,water
+51,42,water
+48,43,water
+49,43,water
+50,43,water
+51,43,water
+52,43,water
+53,43,water
+97,60,water
+98,60,water
+99,60,water
+100,60,water
+101,60,water
+102,60,water
+103,60,water
+104,60,water
+105,60,water
+96,61,water
+97,61,water
+98,61,water
+99,61,water
+100,61,water
+101,61,water
+102,61,water
+103,61,water
+104,61,water
+105,61,water
+69,53,water
+69,54,water
+69,55,water
+24,62,artificial
+71,38,artificial
+14,38,artificial
+9,11,artificial
+67,111,artificial
+36,149,artificial
+65,66,artificial
+27,276,artificial
+23,257,artificial
+67,240,artificial
+10,219,artificial
+42,268,artificial
+65,297,artificial
+76,207,artificial
+19,177,artificial
+4,281,artificial
+73,322,artificial
+81,302,artificial
+79,238,artificial
+12,223,artificial
+106,305,artificial
+106,302,artificial
+150,267,artificial
+147,198,artificial
+146,198,artificial
+113,201,artificial
+149,273,artificial
+146,169,artificial
+168,177,artificial
+146,352,artificial
+150,370,artificial
+123,430,artificial
+151,427,artificial
+139,403,artificial
+136,400,artificial
+104,405,artificial
+111,389,artificial
+126,413,artificial
+176,432,artificial
+186,432,artificial
+175,422,artificial
+146,447,artificial
+151,418,artificial
+105,389,artificial
+194,566,artificial
+180,561,artificial
+146,561,artificial
+145,561,artificial
+131,584,artificial
+145,533,artificial
+123,524,artificial
+129,524,artificial
+125,505,artificial
+121,523,artificial
+121,524,artificial
+123,594,artificial
+186,482,artificial
+189,558,artificial
+67,516,artificial
+55,595,artificial
+13,552,artificial
+5,477,artificial
+49,504,artificial
+49,503,artificial
+55,533,artificial
+54,533,artificial
+56,533,artificial
+41,455,artificial
+42,415,artificial
+41,415,artificial
+27,424,artificial
+27,425,artificial
+27,426,artificial
+25,93,artificial
+26,93,artificial
+27,93,artificial
+35,107,artificial
+74,156,artificial
+54,33,artificial
+54,34,artificial
+149,148,artificial
+161,9,artificial
+162,9,artificial
+163,9,artificial
+134,9,artificial
+120,17,artificial
+135,116,artificial
+135,117,artificial
+135,118,artificial
+130,159,artificial
+122,311,artificial
+75,335,artificial
+77,393,artificial
+63,416,artificial
+64,416,artificial
+137,410,artificial
+175,402,artificial
+175,403,artificial
+192,67,artificial
+67,85,artificial
+77,142,low vegetation
+77,143,low vegetation
+77,160,low vegetation
+76,160,low vegetation
+76,161,low vegetation
+76,162,low vegetation
+38,190,low vegetation
+37,190,low vegetation
+54,248,low vegetation
+47,245,low vegetation
+110,238,low vegetation
+109,247,low vegetation
+78,187,low vegetation
+94,247,low vegetation
+106,235,low vegetation
+190,250,low vegetation
+186,234,low vegetation
+133,432,low vegetation
+133,428,low vegetation
+133,429,low vegetation
+133,430,low vegetation
+133,431,low vegetation
+118,404,low vegetation
+119,404,low vegetation
+137,342,low vegetation
+137,343,low vegetation
+138,342,low vegetation
+138,343,low vegetation
+183,374,low vegetation
+183,375,low vegetation
+123,127,low vegetation
+123,128,low vegetation
+123,129,low vegetation
+123,130,low vegetation
+9,86,low vegetation
+10,86,low vegetation
+9,87,low vegetation
+10,87,low vegetation
+29,469,low vegetation
+29,470,low vegetation
+29,471,low vegetation
+29,472,low vegetation
+30,469,low vegetation
+30,470,low vegetation
+30,471,low vegetation
+30,472,low vegetation
+31,493,low vegetation
+31,494,low vegetation
+31,495,low vegetation
+31,496,low vegetation
+32,493,low vegetation
+32,494,low vegetation
+32,495,low vegetation
+32,496,low vegetation
+38,554,low vegetation
+38,555,low vegetation
+38,556,low vegetation
+39,554,low vegetation
+39,555,low vegetation
+39,556,low vegetation
+69,548,low vegetation
+69,549,low vegetation
+70,548,low vegetation
+70,549,low vegetation
+147,569,low vegetation
+147,570,low vegetation
+147,571,low vegetation
+148,569,low vegetation
+148,570,low vegetation
+148,571,low vegetation
+168,455,low vegetation
+169,455,low vegetation
+170,455,low vegetation
+171,455,low vegetation
+172,455,low vegetation
+159,418,low vegetation
+160,418,low vegetation
+161,418,low vegetation
+159,419,low vegetation
+160,419,low vegetation
+161,419,low vegetation
+159,301,low vegetation
+144,294,low vegetation
+143,294,low vegetation
+144,295,low vegetation
+143,295,low vegetation
+116,236,low vegetation
+116,237,low vegetation
+188,315,low vegetation
+188,316,low vegetation
+189,315,low vegetation
+189,316,low vegetation
+17,26,low vegetation
+17,27,low vegetation
+18,26,low vegetation
+18,27,low vegetation
+28,47,low vegetation
+29,47,low vegetation
+99,150,low vegetation
+99,151,low vegetation
+145,22,tree cover
+146,22,tree cover
+145,23,tree cover
+146,23,tree cover
+162,78,tree cover
+162,79,tree cover
+162,80,tree cover
+163,78,tree cover
+163,79,tree cover
+163,80,tree cover
+161,28,tree cover
+161,29,tree cover
+161,30,tree cover
+161,31,tree cover
+162,28,tree cover
+162,29,tree cover
+162,30,tree cover
+162,31,tree cover
+163,28,tree cover
+163,29,tree cover
+163,30,tree cover
+163,31,tree cover
+114,48,tree cover
+115,48,tree cover
+116,48,tree cover
+114,49,tree cover
+115,49,tree cover
+116,49,tree cover
+194,43,tree cover
+194,44,tree cover
+195,43,tree cover
+195,44,tree cover
+70,113,tree cover
+66,12,tree cover
+61,132,tree cover
+57,140,tree cover
+53,147,tree cover
+47,169,tree cover
+48,169,tree cover
+47,170,tree cover
+48,170,tree cover
+152,177,tree cover
+153,177,tree cover
+134,29,tree cover
+135,29,tree cover
+134,30,tree cover
+135,30,tree cover
+187,335,tree cover
+188,335,tree cover
+189,335,tree cover
+187,336,tree cover
+188,336,tree cover
+189,336,tree cover
+141,390,tree cover
+141,391,tree cover
+142,390,tree cover
+142,391,tree cover
+143,390,tree cover
+143,391,tree cover
+134,418,tree cover
+134,419,tree cover
+156,578,tree cover
+156,579,tree cover
+156,580,tree cover
+156,581,tree cover
+156,582,tree cover
+157,578,tree cover
+157,579,tree cover
+157,580,tree cover
+157,581,tree cover
+157,582,tree cover
+120,498,tree cover
+121,498,tree cover
+120,499,tree cover
+121,499,tree cover
+102,587,tree cover
+103,587,tree cover
+102,588,tree cover
+103,588,tree cover
+90,558,tree cover
+91,558,tree cover
+90,559,tree cover
+91,559,tree cover
+55,495,tree cover
+55,496,tree cover
+38,436,tree cover
+85,355,tree cover
+86,355,tree cover
+99,247,tree cover
+100,247,tree cover
+99,248,tree cover
+100,248,tree cover
+134,230,tree cover
+135,230,tree cover
+134,231,tree cover
+135,231,tree cover
+30,171,tree cover
+31,171,tree cover
+30,172,tree cover
+31,172,tree cover
